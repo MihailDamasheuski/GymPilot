@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GymPilot</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="water">Water</string>
+    <string name="meal">Meal</string>
+    <string name="workout">Workout</string>
+</resources>
