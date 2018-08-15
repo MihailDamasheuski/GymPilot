@@ -4,4 +4,6 @@
     <string name="water">Water</string>
     <string name="meal">Meal</string>
     <string name="workout">Workout</string>
+    <string name="add_water">Add water</string>
+    <string name="add_meal">Add Meal</string>
 </resources>
