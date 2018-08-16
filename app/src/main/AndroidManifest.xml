@@ -19,7 +19,9 @@
         <activity android:name=".workout.Workout" />
         <activity android:name=".exercise.Exersize" />
         <activity android:name=".meal.Meal" />
-        <activity android:name=".water.Water"></activity>
+        <activity android:name=".water.Water" />
+        <activity android:name=".meal.AddMeal" />
+        <activity android:name=".water.AddWater"></activity>
     </application>
 
 </manifest>
