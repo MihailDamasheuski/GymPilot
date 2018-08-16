@@ -20,7 +20,6 @@ import utils.DateUtils;
 
 public class Water extends AppCompatActivity {
 
-    private static final String WATER_AMOUNT = "waterAmount";
     private static final int ADD_WATER_REQUEST_CODE = 0;
 
     private Button addWater;
